@@ -5,6 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+#environments
+.artifacts
+.env
+.venv
+.env/
+.venv/
+
 
 # Distribution / packaging
 .Python
