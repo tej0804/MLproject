@@ -72,3 +72,14 @@ index.html → Input form for student data
 
 home.html → Displays prediction result (e.g., "Pass" or "Fail")
 
+# 9. Model Performance 
+After evaluating model:
+
+Accuracy: 88.04% 
+
+Best Model: Random Forest Classifier
+
+Metrics: Precision, Recall, F1-score
+
+Visualizations (Confusion Matrix, ROC Curve)
+
